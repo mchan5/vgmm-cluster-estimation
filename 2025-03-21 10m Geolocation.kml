@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1MMGZ5yoI4pDMUgH3KYKTJv1TTuZhIgRM">
+	<name>2025-03-21 10m Geolocation</name>
+	<gx:CascadingStyle kml:id="__managed_style_2BC57B6F0E3C069298B0">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_19391EAEBC3C069298B0">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F3B7D5F9E3C069298B0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_19391EAEBC3C069298B0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2BC57B6F0E3C069298B0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="53CEE1E26C000001">
+		<name>Home location</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57683563232422,43.43378829956055,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000002">
+		<name>18:56:31</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57705342929371,43.43371677692927,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000003">
+		<name>18:56:38</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57691044550783,43.43388113729159,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000004">
+		<name>18:56:39</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57688036264901,43.43388720348732,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000005">
+		<name>18:56:41</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57688003536829,43.43389032658011,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000006">
+		<name>18:56:42</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57688006253902,43.43389041658277,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000007">
+		<name>18:56:45</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57688529041687,43.43388383738541,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000008">
+		<name>18:56:46</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57688268203387,43.43388473741321,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000009">
+		<name>18:56:47</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57688430609832,43.43388444940398,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C00000A">
+		<name>18:56:49</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57688211391887,43.43388327036991,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C00000B">
+		<name>18:56:50</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57688044662979,43.43388546643575,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C00000C">
+		<name>18:56:54</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57687630681083,43.4338888235369,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C00000D">
+		<name>18:56:55</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57687980441634,43.43388855352759,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C00000E">
+		<name>18:56:57</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57688056766077,43.43388277535585,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C00000F">
+		<name>18:56:59</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57687935979865,43.43387913924841,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000010">
+		<name>18:57:02</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57687383427611,43.43388225334279,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000011">
+		<name>18:57:03</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57687952776755,43.43388576344491,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000012">
+		<name>18:57:04</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57687914490377,43.43387959826212,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000013">
+		<name>18:57:06</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57688128274042,43.43387905824527,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000014">
+		<name>18:57:07</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57687370459611,43.43387929225497,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000015">
+		<name>18:57:08</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57688119628821,43.43387893224156,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000016">
+		<name>18:57:48</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57729799089101,43.43392665973201,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000017">
+		<name>18:57:53</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57730330156166,43.43393149285379,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000018">
+		<name>18:57:56</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57729023489681,43.43392674976577,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000019">
+		<name>18:58:02</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57756358326677,43.43383928645721,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C00001A">
+		<name>18:58:04</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57756159483738,43.4338365854897,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C00001B">
+		<name>18:58:06</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57758110824425,43.43383214823245,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C00001C">
+		<name>18:58:08</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57755538261887,43.43383475937475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C00001D">
+		<name>18:58:09</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57756877032791,43.43383417427235,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C00001E">
+		<name>18:58:11</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57756894322019,43.43383319594221,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C00001F">
+		<name>18:58:12</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57756192826112,43.43383373060285,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000020">
+		<name>18:58:15</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57753856147798,43.4338309829673,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53CEE1E26C000021">
+		<name>18:58:24</name>
+		<styleUrl>#__managed_style_0F3B7D5F9E3C069298B0</styleUrl>
+		<Point>
+			<coordinates>-80.57755192450482,43.43383201251493,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
