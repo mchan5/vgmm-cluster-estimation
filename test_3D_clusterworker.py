@@ -31,7 +31,7 @@ class ClusterEstimation:
             n_components=max_num_components, 
             init_params="k-means++", 
             weight_concentration_prior=0.001, # Lower --> Accepts clusters with fewer points
-            mean_precision_prior=0.5, 
+            mean_precision_prior=4, 
             max_iter=3000,
             random_state=random_state,
         )
