@@ -3,7 +3,7 @@ import sklearn.mixture
 from sklearn.preprocessing import StandardScaler 
 
 class ClusterEstimation: 
-    _WEIGHT_DROP_THRESHOLD = 0.0001 # Set low to keep sparse clusters. Points per cluster are very different
+    _WEIGHT_DROP_THRESHOLD = 0.5 # Set low to keep sparse clusters. Points per cluster are very different
     _MAX_COVARIANCE_THRESHOLD = 100  # Cluster Size can be in a large range of sizes
 
     @classmethod

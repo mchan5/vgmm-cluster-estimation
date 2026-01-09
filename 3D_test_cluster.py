@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 from test_3D_clusterworker import ClusterEstimation
 
 # Load and Parse KML
-kml_file = 'test_3d_estimation.kml'
+kml_file = 'Results.kml.xml'
 try:
     with open(kml_file, 'r', encoding='utf-8') as f:
         soup = BeautifulSoup(f, 'xml')
