@@ -3,6 +3,8 @@ This repository is a proof of concept for the localization for coloured targets 
 
 This is designed for the Waterloo Aerial Robotics Group MVP for the Aerial Evolution Association of Canada competition, where after receiving a dataset containing the estimated centres of coloured targets, will return the correct number of targets as well as the target's centre within 0.5m.
 
+<img width="1118" height="800" alt="image" src="https://github.com/user-attachments/assets/ef1b223f-0080-4052-88b5-c54e88cb0755" />
+
 # How It's Made:
 Python, SciKit, Numpy
 
